@@ -18,9 +18,6 @@ Looking for maintainers
 - Light sensor
 - Orientation sensor
 - Fingerprint sensor
-
-## Things that don't work
+- Proximity sensor
 - Vibration
-(permissions to /sys/class/leds/vibrator/activator and duration are reset by /vendor/etc/init/hw/init.mmi.rc)
-- Proximity sensor?
 - Notification LED
