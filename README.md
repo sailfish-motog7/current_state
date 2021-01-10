@@ -13,11 +13,10 @@ Looking for maintainers
 - WLAN
 - Sound
 - Cameras
-(only max res available, will add more after release, if ever)
 - Flashlight
 - Light sensor
 - Orientation sensor
 - Fingerprint sensor
 - Proximity sensor
-- Vibration
+- Vibration (weak and shambly, need attention)
 - Notification LED
