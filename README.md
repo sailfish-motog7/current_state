@@ -18,5 +18,5 @@ Looking for maintainers
 - Orientation sensor
 - Fingerprint sensor
 - Proximity sensor
-- Vibration (weak and shambly, need attention)
+- Vibration
 - Notification LED
